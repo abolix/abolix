@@ -15,7 +15,7 @@
   <a href="https://wa.link/vqdi26">
     <img src="https://img.shields.io/badge/Whatsapp-emerald?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <a href="mailto:abolixme@gmail.com">
+  <a href="mailto:abolixes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   </div>
@@ -23,12 +23,26 @@
 </div>
 
 ### 🙂 About Me :
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇮🇷 Iran.
-- 🏡 always was / is a Freelancer
-- 🐧 a Linux / Ubuntu lover
-- 📚 Fast Learner
+Hi there! 👋 I'm a Full Stack  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Web Developer from 🇮🇷 Iran with a passion for building user-friendly and innovative web applications.
 
-- :zap: In my free time, I try to awnser some questions on stackoverflow : [![Stackoverflow Badge](https://img.shields.io/badge/-my_stackoverflow-orange?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/4949062/abolfazl-ghaemi)
+* 💼 Experienced Freelancer with a strong foundation in both front-end and back-end development.
+* 🐧 Passionate about Linux and Ubuntu.
+* 📚 Fast Learner, always eager to expand my knowledge and skillset.
+* 🤝 Active contributor on Stack Overflow: [![Stackoverflow Badge](https://img.shields.io/badge/-my_stackoverflow-orange?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/4949062/abolfazl-ghaemi)
+
+**Coding Skills:**
+
+* **Front-End:** HTML, CSS, Tailwind, JavaScript, Vue, Nuxt
+* **Back-End:** Python, Django, PHP, Golang
+
+
+**Contact:**
+
+* Feel free to reach out to me on:
+    * LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abolfazl-ghaemi-09a65710b/)
+    * Email: abolixes@gmail.com
+    * Telegram: @Abolix
+
 
 <!--
 
