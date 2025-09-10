@@ -28,16 +28,9 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-## �‍♂️ About Me
+## About Me
 
-Hi there! 👋 I'm a passionate Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Web Developer from 🇮🇷 Iran who loves crafting digital experiences that make a difference!
-
-✨ **What drives me:**
-- 💼 **Experienced Freelancer** with expertise in both front-end and back-end development
-- 🐧 **Linux enthusiast** - Ubuntu is my playground!
-- 📚 **Lifelong learner** - always exploring new technologies and best practices
-- 🤝 **Community contributor** - helping fellow developers on Stack Overflow
-- 🎯 **Quality focused** - building user-friendly and innovative web applications
+Hi there! 👋 I'm a passionate Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Web Developer who loves crafting digital experiences that make a difference!
 
 ## 🛠️ Tech Stack
 
@@ -64,8 +57,7 @@ Hi there! 👋 I'm a passionate Full Stack <img src="https://media.giphy.com/med
 ## 🎯 Fun Facts
 
 - 🌙 I code best during late night hours when the world is quiet
-- ☕ Coffee is my debugging fuel - the stronger, the better!
-- 🎮 When not coding, you'll find me exploring new Linux distros
+- 🎮 When not coding, you'll find me playing League of Legends
 - 📖 I believe the best way to learn is by building and sharing knowledge
 - 🌍 Open to collaborating on exciting projects from anywhere in the world!
 
@@ -96,19 +88,3 @@ I'm always excited to connect with fellow developers, potential collaborators, o
 **Happy coding!** 🚀✨
 
 </div>
-
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
