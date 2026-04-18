@@ -6,6 +6,15 @@
   <h3>🚀 Full Stack Developer | 💻 Code Enthusiast | 🌟 Problem Solver</h3>
   
   <img src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="300"/>
+
+
+  <div id="badges">
+    <a href="https://stackoverflow.com/users/4949062/abolfazl-ghaemi">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views"/>
+  </div>
+  
   
 </div>
 
