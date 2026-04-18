@@ -7,22 +7,6 @@
   
   <img src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="300"/>
   
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/abolfazl-ghaemi-09a65710b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/abolix">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="mailto:abolixes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://stackoverflow.com/users/4949062/abolfazl-ghaemi">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
-  </a>
-  </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ## About Me
@@ -70,7 +54,6 @@ I'm always excited to connect with fellow developers, potential collaborators, o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abolfazl-ghaemi-09a65710b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abolixes@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abolix)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/vqdi26)
 
 </div>
 
